@@ -1,11 +1,10 @@
 package se.hellsoft.myapplication
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.annotation.LayoutRes
 import android.support.constraint.ConstraintSet
+import android.support.v7.app.AppCompatActivity
 import android.transition.ChangeBounds
-import android.transition.Transition
 import android.transition.TransitionManager
 import android.view.View
 import android.view.Window

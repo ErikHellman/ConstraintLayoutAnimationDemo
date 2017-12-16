@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales quis nunc et egestas. Morbi vel tortor sapien. Pellentesque et sodales nisi, nec tristique augue. Nullam aliquam, ex ac laoreet tristique, erat leo egestas odio, vitae sodales justo libero et diam. Fusce a lacinia enim. Mauris dui lectus, ultricies ut semper eget, pretium sed nibh. Vestibulum semper nulla eget tortor euismod efficitur. Quisque condimentum nec justo nec aliquet.</string>
 </resources>
